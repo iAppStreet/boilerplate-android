@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="robotoBlack">roboto/Black.ttf</string>
+    <string name="robotoBlackItalic">roboto/BlackItalic.ttf</string>
+    <string name="robotoBold">roboto/Bold.ttf</string>
+    <string name="robotoBoldItalic">roboto/BoldItalic.ttf</string>
+    <string name="robotoItalic">roboto/Italic.ttf</string>
+    <string name="robotoLight">roboto/Light.ttf</string>
+    <string name="robotoLightItalic">roboto/LightItalic.ttf</string>
+    <string name="robotoMedium">roboto/Medium.ttf</string>
+    <string name="robotoMediumItalic">roboto/MediumItalic.ttf</string>
+    <string name="robotoRegular">roboto/Regular.ttf</string>
+    <string name="robotoThin">roboto/Thin.ttf</string>
+    <string name="robotoThinItalic">roboto/ThinItalic.ttf</string>
+</resources>
